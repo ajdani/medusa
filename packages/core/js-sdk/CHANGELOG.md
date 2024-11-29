@@ -1,5 +1,12 @@
 # @medusajs/js-sdk
 
+## 2.0.8
+
+### Patch Changes
+
+- Updated dependencies [[`324b4ab438662f44de495ffe4d9137677a032a00`](https://github.com/medusajs/medusa/commit/324b4ab438662f44de495ffe4d9137677a032a00)]:
+  - @medusajs/types@2.0.8
+
 ## 2.0.7
 
 ### Patch Changes
